@@ -1,0 +1,15 @@
+
+.box {
+    width: 24%;
+    border-style:double;
+    border-radius: 4px;
+    border: 2%;
+    border-color: deeppink;
+    margin: 2px;
+    margin-top: 5%;
+    text-align: center;
+    min-height: 100px;
+    line-height: 100px;
+    background-color: lightpink;
+    float: left;
+}
